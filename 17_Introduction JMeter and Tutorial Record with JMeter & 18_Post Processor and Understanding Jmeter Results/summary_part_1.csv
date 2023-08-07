@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GET fitur Items,10,2058,0,2529,228.64,0.000%,.93738,6.08,0.47,6637.6
+GET fitur Report,10,1071,0,1681,256.80,0.000%,1.05775,6.68,0.66,6465.8
+POST fitur Supplier,10,1023,0,1245,160.22,0.000%,1.07239,6.79,0.76,6480.3
+TOTAL,30,1384,0,2529,524.68,0.000%,2.43625,15.53,1.49,6527.9
